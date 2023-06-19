@@ -1,1 +1,1 @@
-console.log('scripot online')
+let a = 'caca'
