@@ -1,1 +1,1 @@
-alert('hi')
+console.log('scripot online')
